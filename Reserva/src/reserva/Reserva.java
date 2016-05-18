@@ -18,7 +18,7 @@ public class Reserva {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,"Sis13-A");
-        JOptionPane.showMessageDialog(null,"Modificacion desde Git");
+        JOptionPane.showMessageDialog(null,"Modificacion desde Git"); 
     }
     
 }
